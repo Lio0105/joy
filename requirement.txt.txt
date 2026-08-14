@@ -1,3 +1,5 @@
-openai
 streamlit
+openai
+requests
 reportlab
+urllib3
